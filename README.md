@@ -14,7 +14,7 @@ Pymongo is a Python driver for MongoDB allowing you to interact with Mongo datab
 * Using MongoDB in software projects and for data science
 
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/MongoDB-PyMongo/blob/main/PyMongo%20in%20Python.ipynb) for more!!***
 
 # Conclusion
 
