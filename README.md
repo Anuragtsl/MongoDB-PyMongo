@@ -22,11 +22,11 @@ In summary, MongoDB is a powerful and scalable database that is very useful when
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/MongoDB-PyMongo/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/MongoDB-PyMongo/blob/main/images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/MongoDB-PyMongo/blob/main/images/3.png)
 
 
 #Njoy!!
